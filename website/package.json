@@ -33,7 +33,7 @@
     "@emotion/styled": "11.11.5",
     "@octokit/rest": "20.0.2",
     "contentlayer": "0.3.4",
-    "date-fns": "3.6.0",
+    "date-fns": "4.1.0",
     "docsearch.js": "2.6.3",
     "focus-visible": "5.2.0",
     "formik": "2.4.5",
