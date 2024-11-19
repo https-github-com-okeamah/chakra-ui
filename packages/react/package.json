@@ -43,7 +43,7 @@
     "@chakra-ui/hooks": "workspace:*",
     "@chakra-ui/utils": "workspace:*",
     "@pandacss/is-valid-prop": "0.46.1",
-    "@zag-js/dom-query": "0.51.2",
+    "@zag-js/dom-query": "0.76.0",
     "@zag-js/focus-visible": "0.51.2",
     "aria-hidden": "1.2.4",
     "csstype": "3.1.3",
